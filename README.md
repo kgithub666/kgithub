@@ -1,8 +1,10 @@
+[![Gitter](https://badges.gitter.im/kgithub666/community.svg)](https://gitter.im/kgithub666/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 大家好 这里是Kgithub
 
 没错 就是那个kgithub.com的kgithub
 
-来这里是想搞个聊天室或者有问题可以放到issues 毕竟我也觉得发邮件有点过于麻烦了
+来这里是想搞个聊天室（点一下开头那个图标即可）或者有问题可以放到issues 毕竟我也觉得发邮件有点过于麻烦了
 
 kgithub未来可能会接一些广告 当然 只会放在help页（各位贡献一点流量，kgithub就不会死的那么快） 不会影响各位使用kgithub
 
