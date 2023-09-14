@@ -2,7 +2,7 @@
 
 大家好 这里是KGitHub
 
-没错 就是那个kgithub.com的KGitHub
+没错 就是那个kgithub.com的KGitHub(由于原域名被墙，现在是kkgithub.com)
 
 来这里是想搞个聊天室（点一下开头那个图标即可）或者有问题可以放到issues 毕竟我也觉得发邮件有点过于麻烦了
 
