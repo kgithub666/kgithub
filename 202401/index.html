@@ -333,6 +333,11 @@
         </ul>
       </nav>
     </li>
+	<li class="md-nav__item">
+	    <a href="../sponsor/" class="md-nav__link">
+	      赞助商
+	    </a>
+	  </li>
   <li class="md-nav__item">
       <a href="../friends/" class="md-nav__link">
         友情链接
@@ -487,9 +492,29 @@
 </tr>
 </tbody>
 </table>
-<a href="/202404" class="md-nav__link">
-    查看最新捐款名单202404
-  </a>
+    <a href="" class="md-nav__link" id="donation-link">
+        
+    </a>
+    <script>
+        function updateMonthLink() {
+            const linkElement = document.getElementById('donation-link');
+            const currentDate = new Date();
+            const year = currentDate.getFullYear();
+            let month = currentDate.getMonth() + 1; // getMonth() returns 0-11, so we add 1
+
+            // Format the month to be two digits
+            if (month < 10) {
+                month = '0' + month;
+            }
+
+            const newMonthString = `${year}${month}`;
+            linkElement.href = `/${newMonthString}`;
+            linkElement.textContent = `查看最新捐款名单${newMonthString}`;
+        }
+
+        // Call the function to update the link when the page loads
+        updateMonthLink();
+    </script>
 <script src="/total.js"></script>
               
             </article>
