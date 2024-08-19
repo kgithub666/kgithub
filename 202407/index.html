@@ -282,16 +282,25 @@
 	      202405
 	    </a>
 	  </li>
+	  <li class="md-nav__item">
+	    <a href="../202406/" class="md-nav__link">
+	      202406
+	    </a>
+	  </li>
     <li class="md-nav__item md-nav__item--active">
       
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
-      <a href="../202406/" class="md-nav__link md-nav__link--active">
-        202406
+      <a href="../202407/" class="md-nav__link md-nav__link--active">
+        202407
       </a>
     </li>	  
-	  
+	  <li class="md-nav__item">
+	    <a href="../202408/" class="md-nav__link">
+	      202408
+	    </a>
+	  </li>
 	  
         </ul>
       </nav>
@@ -459,11 +468,32 @@
 <tr>
 <td align="center">9</td>
 <td align="center">LoremlpSum</td>
-<td align="center">20240714</td>
+<td align="center">20240724</td>
 <td align="center">微信</td>
 <td align="center">10.00元</td>
 </tr>
 
+<tr>
+<td align="center">10</td>
+<td align="center">热心网友1789</td>
+<td align="center">20240726</td>
+<td align="center">微信</td>
+<td align="center">0.10元</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">热心网友3677</td>
+<td align="center">20240728</td>
+<td align="center">微信</td>
+<td align="center">10.00元</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center">热心网友0408</td>
+<td align="center">20240729</td>
+<td align="center">微信</td>
+<td align="center">6.66元</td>
+</tr>
 
 <tr id="total-row">
     <td colspan="4" align="center">总金额</td>
@@ -471,7 +501,36 @@
 </tr>
 </tbody>
 </table>
-<p>20240724更新</p>
+
+<tr id="total-row">
+    <td colspan="4" align="center">总金额</td>
+    <td id="total-amount" align="center"></td>
+</tr>
+</tbody>
+</table>
+    <a href="" class="md-nav__link" id="donation-link">
+        
+    </a>
+    <script>
+        function updateMonthLink() {
+            const linkElement = document.getElementById('donation-link');
+            const currentDate = new Date();
+            const year = currentDate.getFullYear();
+            let month = currentDate.getMonth() + 1; // getMonth() returns 0-11, so we add 1
+
+            // Format the month to be two digits
+            if (month < 10) {
+                month = '0' + month;
+            }
+
+            const newMonthString = `${year}${month}`;
+            linkElement.href = `/${newMonthString}`;
+            linkElement.textContent = `查看最新捐款名单${newMonthString}`;
+        }
+
+        // Call the function to update the link when the page loads
+        updateMonthLink();
+    </script>
 <script src="/total.js"></script>
               
             </article>
@@ -485,7 +544,7 @@
     <nav class="md-footer__inner md-grid" aria-label="页脚">
       
         
-        <a href="../202406/" class="md-footer__link md-footer__link--prev" aria-label="上一页: 202404" rel="prev">
+        <a href="../202406/" class="md-footer__link md-footer__link--prev" aria-label="上一页: 202406" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
           </div>
@@ -501,13 +560,13 @@
       
       
         
-        <a href="../ad01/" class="md-footer__link md-footer__link--next" aria-label="下一页: 广告位招租" rel="next">
+        <a href="../202408/" class="md-footer__link md-footer__link--next" aria-label="下一页: 202408" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 下一页
               </span>
-              广告位招租
+              202408
             </div>
           </div>
           <div class="md-footer__button md-icon">
