@@ -1,5 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://help.kkgithub.com/sitemap.xml
-Sitemap: https://help.kkgithub.com/sitemap.html
-Sitemap: https://help.kkgithub.com/sitemap.txt
