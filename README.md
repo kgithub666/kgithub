@@ -10,9 +10,18 @@
 
 ---------
 
+赞助商：
+
+| 序号 | Logo                                                         |
+| ---- | ------------------------------------------------------------ |
+| 1    | <a href="https://cloud.tencent.com/product/lighthouse?from=help.kkgithub.com&cps_key=e5032b6c916fa600e96dfcdad3034fe2"><img width="200" src="https://help.kkgithub.com/assets/images/sponsor/tencentcloud_lighthouse-bright.svg" alt=""></a > |
+
+--------
 
 
 大家好 这里是KGitHub
+
+
 
 感谢[腾讯轻量云](https://cloud.tencent.com/product/lighthouse?from=help.kkgithub.com&cps_key=e5032b6c916fa600e96dfcdad3034fe2)成为本站首位赞助商，为本站缓解部分资金压力
 
