@@ -15,6 +15,7 @@
 | 序号 | Logo                                                         |
 | ---- | ------------------------------------------------------------ |
 | 1    | <a href="https://cloud.tencent.com/product/lighthouse?from=help.kkgithub.com&cps_key=e5032b6c916fa600e96dfcdad3034fe2"><img width="200" src="https://help.kkgithub.com/assets/images/sponsor/tencentcloud_lighthouse-bright.svg" alt=""></a > |
+| 2    | <a href="https://cnb.cool"><img width="200" src="https://help.kkgithub.com/assets/images/sponsor/cnb-logo.jpg" alt=""></a > |
 
 --------
 
@@ -24,6 +25,8 @@
 
 
 感谢[腾讯轻量云](https://cloud.tencent.com/product/lighthouse?from=kkgithub.com&cps_key=e5032b6c916fa600e96dfcdad3034fe2&cps_promotion_id=101568)成为本站首位赞助商，为本站缓解部分资金压力
+
+感谢[CNB](https://cnb.cool)提供的这辈子也用不完的核时
 
 已上线[健康看板](https://status.kkgithub.com/status/kgithub),并公开了主站以及部分站点IP，可自行拨测后择优选择。
 
