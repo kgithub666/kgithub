@@ -4,6 +4,8 @@
 
 仓库误报/解封、违规仓库举报、申请友链、赞助/合作等请前往[KGitHub Tickets](https://ticket.kkgithub.com)提交工单，issue不处理上述问题
 
+若您的项目中使用了KGitHub进行任何加速下载（包括但不限于一键脚本等），请标明文件加速由本站提供并附带帮助站链接https://help.kkgithub.com。
+
 常见问题/捐款名单 >> [点我前往帮助站](https://help.kkgithub.com)
 
 <a href="https://afdian.com/a/kgithub"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" alt=""></a >
