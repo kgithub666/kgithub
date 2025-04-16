@@ -24,7 +24,7 @@
 
 大家好 这里是KGitHub
 
-
+*Feature:即将上线AI审查，误判率更低*
 
 感谢[腾讯轻量云](https://cloud.tencent.com/product/lighthouse?from=kkgithub.com&cps_key=e5032b6c916fa600e96dfcdad3034fe2&cps_promotion_id=101568)成为本站首位赞助商，为本站缓解部分资金压力
 
