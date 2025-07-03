@@ -1,6 +1,6 @@
 ## KGithub -- Github Mirror
 
-因GitHub改版后首页资源消耗过大 首页将自动重定向至本页
+因GitHub改版后首页资源消耗过大 首页将自动重定向至本页，STAR本仓库获取未来最新地址
 
 仓库误报/解封、违规仓库举报、申请友链、赞助/合作等请前往[KGitHub Tickets](https://ticket.kkgithub.com)提交工单，issue不处理上述问题
 
